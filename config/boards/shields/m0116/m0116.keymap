@@ -28,7 +28,7 @@
   &kp KP_PLUS  &kp KP_N9  &kp KP_N8  &kp KP_N7  &kp RIGHT_BRACKET  &kp LEFT_BRACKET  &kp P  &kp O  &kp I  &kp N7  &kp Y  &kp N4  &kp E  &kp W   &kp Q  &kp TAB
   &kp KP_MINUS  &kp KP_N6  &kp KP_N5  &kp KP_N4  &kp ENTER  &kp SEMICOLON  &kp L  &kp K   &kp J  &kp U  &kp T  &kp R  &kp D  &kp S  &kp A  &kp ESC
   &kp KP_N3  &kp KP_N2  &kp KP_N1  &kp RSHIFT  &kp APOSTROPHE  &kp SLASH  &kp PERIOD &kp COMMA  &kp M  &kp H  &kp G  &kp F  &kp C  &kp X  &kp Z  &kp LSHIFT
-  &kp KP_ENTER  &kp KP_COMMA  &kp KP_N0  &kp RIGHT  &kp UP &kp DOWN  &kp LEFT  &kp BACKSLASH  &kp SPACE  &kp N  &kp B  &kp V  &lt RAISE GRAVE  &kp LMETA  &kp LALT  &mo LCTRL
+  &kp KP_ENTER  &kp KP_COMMA  &kp KP_N0  &kp RIGHT  &kp UP &kp DOWN  &kp LEFT  &kp BACKSLASH  &kp SPACE  &kp N  &kp B  &kp V  &lt RAISE GRAVE  &kp LMETA  &kp LALT  &kp LCTRL
             >;
         };
        raise_layer {
