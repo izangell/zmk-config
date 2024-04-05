@@ -24,16 +24,16 @@
 
         default_layer {
             bindings = <
-  &kp KP_ASTERISK  &kp KP_DIVIDE  &kp KP_EQUAL  &kp KP_NUM  &kp BACKSPACE  &kp EQUAL  &kp MINUS  &kp N0  &kp N9  &kp N8   &kp N6  &kp N5  &kp N3  &kp N2  &kp N1  &kp ESC
+  &kp KP_ASTERISK  &kp KP_DIVIDE  &kp KP_EQUAL  &kp KP_NUM  &kp BACKSPACE  &kp EQUAL  &kp MINUS  &kp N0  &kp N9  &kp N8   &kp N6  &kp N5  &kp N3  &kp N2  &kp N1  &kp GRAVE
   &kp KP_PLUS  &kp KP_N9  &kp KP_N8  &kp KP_N7  &kp RIGHT_BRACKET  &kp LEFT_BRACKET  &kp P  &kp O  &kp I  &kp N7  &kp Y  &kp N4  &kp E  &kp W   &kp Q  &kp TAB
-  &kp KP_MINUS  &kp KP_N6  &kp KP_N5  &kp KP_N4  &kp ENTER  &kp SEMICOLON  &kp L  &kp K   &kp J  &kp U  &kp T  &kp R  &kp D  &kp S  &kp A  &kp LCTRL
+  &kp KP_MINUS  &kp KP_N6  &kp KP_N5  &kp KP_N4  &kp ENTER  &kp SEMICOLON  &kp L  &kp K   &kp J  &kp U  &kp T  &kp R  &kp D  &kp S  &kp A  &kp ESC
   &kp KP_N3  &kp KP_N2  &kp KP_N1  &kp RSHIFT  &kp APOSTROPHE  &kp SLASH  &kp PERIOD &kp COMMA  &kp M  &kp H  &kp G  &kp F  &kp C  &kp X  &kp Z  &kp LSHIFT
-  &kp KP_ENTER  &kp KP_COMMA  &kp KP_N0  &kp RIGHT  &kp UP &kp DOWN  &kp LEFT  &kp BACKSLASH  &kp SPACE  &kp N  &kp B  &kp V  &kp GRAVE  &kp LMETA  &kp LALT  &mo RAISE
+  &kp KP_ENTER  &kp KP_COMMA  &kp KP_N0  &kp RIGHT  &kp UP &kp DOWN  &kp LEFT  &kp BACKSLASH  &kp SPACE  &kp N  &kp B  &kp V  &kp RAISE  &kp LMETA  &kp LALT  &mo LCTRL
             >;
         };
        raise_layer {
             bindings = <
-  &kp C_MUTE  &trans  &trans  &trans  &trans  &kp F12  &kp F11  &kp F10  &kp F9  &kp F8  &kp F6  &kp F5  &kp F3  &kp F2  &kp F1  &trans
+  &kp C_MUTE  &trans  &trans  &bootloader  &trans  &kp F12  &kp F11  &kp F10  &kp F9  &kp F8  &kp F6  &kp F5  &kp F3  &kp F2  &kp F1  &trans
   &kp C_VOLUME_UP  &trans  &trans  &trans  &trans  &trans  &trans &trans  &trans  &kp F7  &trans  &kp F4  &trans  &trans  &trans  &trans
   &kp C_VOLUME_DOWN  &kp C_NEXT  &kp C_PLAY_PAUSE  &kp C_PREVIOUS  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
   &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
