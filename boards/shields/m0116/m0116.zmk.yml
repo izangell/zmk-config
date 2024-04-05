@@ -1,0 +1,8 @@
+file_format: "1"
+id: m0116
+name: m0116
+type: shield
+url: https://github.com/rezenee/zmk-config
+requires: [pro_micro]
+features:
+  - keys
